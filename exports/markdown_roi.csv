@@ -1,0 +1,7 @@
+Store,Dept,markdown_amount,roi_estimate,confidence
+Store_001,Dept_01,100.0,15.2,0.85
+Store_001,Dept_02,75.0,12.8,0.78
+Store_002,Dept_01,120.0,18.5,0.92
+Store_002,Dept_02,90.0,14.2,0.81
+Store_003,Dept_01,150.0,22.1,0.88
+Store_003,Dept_02,110.0,16.7,0.84

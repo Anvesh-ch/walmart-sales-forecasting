@@ -1,0 +1,7 @@
+Store,Dept,next_week_pred,trailing_4_avg,trailing_13_avg,abs_delta,pct_delta
+Store_001,Dept_01,1150.0,1087.5,1083.3,62.5,5.7
+Store_001,Dept_02,920.0,866.7,860.0,53.3,6.2
+Store_002,Dept_01,1070.0,1016.7,1010.0,53.3,5.2
+Store_002,Dept_02,870.0,816.7,810.0,53.3,6.5
+Store_003,Dept_01,1200.0,1140.0,1133.3,60.0,5.3
+Store_003,Dept_02,950.0,890.0,883.3,60.0,6.7
